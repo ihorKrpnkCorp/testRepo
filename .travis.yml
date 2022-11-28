@@ -5,4 +5,4 @@ dist:
 language: 
 - generic
 script: 
-- echo “Hello MY World!”
+- echo “Hello MY oh My World!”
